@@ -2,7 +2,6 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
         std:: unordered_set<int> seen;
-        std::vector<int> result;
         int count = 0;
 
         // for each element in nums vector
