@@ -17,7 +17,7 @@ public:
             if (target == nums[i]){
                 return i;
             }
-            if (target > nums[i] && target < nums[i+1]){
+            else if (target > nums[i] && target < nums[i+1]){
                 return i+1;
             }
         }
