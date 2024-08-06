@@ -6,12 +6,10 @@ public:
         if (target < nums[0]){
             return 0;
         }
-
         //Case when target is larger than the last element
         if (target > nums[size - 1]){
             return size;
         }
-
         //Case when target is in the range from the first to last
         for (int i = 0; i < (size); i++){
             if (target == nums[i]){
