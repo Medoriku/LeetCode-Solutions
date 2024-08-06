@@ -8,14 +8,12 @@ public:
         }
 
         //Case when target is larger than the last element
-
+        if (target > nums[size - 1]){
+            return size;
+        }
 
         //Case when target is in the range from the first to last element
         for (int i = 0; i < (size); i++){
-            if (target > nums[size - 1]){
-                return size;
-        }
-
             if (target == nums[i]){
                 return i;
             }
