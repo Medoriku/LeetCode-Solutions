@@ -7,8 +7,7 @@ public:
             if (i != std::string::npos){
                 return i;
             }
-            else {
-                return -1;
-            }
+            return -1;
         }
+    
 };
