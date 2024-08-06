@@ -12,7 +12,7 @@ public:
             return size;
         }
 
-        //Case when target is in the range from the first to last element
+        //Case when target is in the range from the first to last
         for (int i = 0; i < (size); i++){
             if (target == nums[i]){
                 return i;
