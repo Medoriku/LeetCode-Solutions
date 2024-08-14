@@ -3,7 +3,6 @@ public:
     int lengthOfLongestSubstring(string s) {
         string nonrep;  // Stores the current substring without repeating characters
         int maxLength = 0;  // Stores the maximum length of substring found
-
         for (int i = 0; i < s.length(); ++i) {
             // If the character is not in the current substring, add it
             if (nonrep.find(s[i]) == string::npos) {
@@ -20,10 +19,8 @@ public:
                 nonrep.push_back(s[i]);
             }
         }
-
         // After the loop, compare the length of the last processed substring
         maxLength = max(maxLength, static_cast<int>(nonrep.length()));
-
         return maxLength;
     }
 };
