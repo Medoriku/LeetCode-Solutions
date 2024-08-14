@@ -21,7 +21,7 @@ public:
             }
         }
 
-        // After the loop, ensure to compare the length of the last processed substring
+        // After the loop, compare the length of the last processed substring
         maxLength = max(maxLength, static_cast<int>(nonrep.length()));
 
         return maxLength;
