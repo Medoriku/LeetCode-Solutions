@@ -5,6 +5,7 @@ public:
         while (x != 0){
             int digit = x%10;
             x /= 10;
+            // Check if overflows
             if (reversedNum > INT_MAX / 10 || (reversedNum == INT_MAX / 10 && digit > 7)){
                 return 0;
             }
