@@ -18,11 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0231-power-of-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
