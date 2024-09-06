@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0506-relative-ranks](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0506-relative-ranks) |
+| [0890-lemonade-change](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1044-find-common-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [2502-sort-the-people](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0890-lemonade-change](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 ## Bit Manipulation
 |  |
 | ------- |
