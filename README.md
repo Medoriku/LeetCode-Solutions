@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1044-find-common-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [2502-sort-the-people](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [3379-score-of-a-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3379-score-of-a-string) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0412-fizz-buzz](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 ## Recursion
 |  |
@@ -122,4 +124,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
