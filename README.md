@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
+| [0171-excel-sheet-column-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0171-excel-sheet-column-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
