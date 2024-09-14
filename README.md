@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -130,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+## Depth-First Search
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
