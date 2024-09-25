@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0015-3sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0165-compare-version-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0136-single-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0242-valid-anagram) |
