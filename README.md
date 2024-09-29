@@ -59,6 +59,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0005-longest-palindromic-substring](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Tree
 |  |
 | ------- |
@@ -107,6 +108,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2502-sort-the-people](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 ## Sorting
@@ -175,4 +177,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Matrix
+|  |
+| ------- |
+| [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 <!---LeetCode Topics End-->
