@@ -68,6 +68,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Design
 |  |
 | ------- |
+| [0731-my-calendar-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -75,6 +76,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0004-median-of-two-sorted-arrays](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0349-intersection-of-two-arrays](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0731-my-calendar-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 ## Heap (Priority Queue)
@@ -103,6 +105,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0506-relative-ranks](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0506-relative-ranks) |
 | [0624-maximum-distance-in-arrays](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0731-my-calendar-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0890-lemonade-change](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1044-find-common-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1044-find-common-characters) |
@@ -184,4 +187,16 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+## Segment Tree
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [0731-my-calendar-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
