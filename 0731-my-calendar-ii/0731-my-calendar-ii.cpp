@@ -1,44 +1,33 @@
-#include <vector>
-#include <map>
-
 class MyCalendarTwo {
 public:
+    // Stores single bookings
+    vector<pair<int, int>> single_bookings;
+    // Stores double bookings (overlapping intervals of two events)
+    vector<pair<int, int>> double_bookings;
+
     MyCalendarTwo() {
         
     }
     
     bool book(int start, int end) {
-        // Use a map to track the changes in overlap counts
-        events[start]++;
-        events[end]--;
-        
-        int ongoing = 0; // Number of ongoing events
-        for (const auto& event : events) {
-            ongoing += event.second; // Update ongoing events count
-            
-            // Check if ongoing events exceed 2
-            if (ongoing > 2) {
-                // Remove the changes since booking failed
-                events[start]--;
-                events[end]++;
-                
-                // Clean up map to prevent memory leak
-                if (events[start] == 0) events.erase(start);
-                if (events[end] == 0) events.erase(end);
-                
-                return false; // Reject the booking
+        // First check if the new event overlaps with any event in double bookings
+        for (auto& db : double_bookings) {
+            if (max(start, db.first) < min(end, db.second)) {
+                // If there is an overlap with any double booking, return false
+                return false;
             }
         }
         
-        return true; // Accept the booking
+        // Check for overlap with single bookings and add to double bookings if overlap is found
+        for (auto& sb : single_bookings) {
+            if (max(start, sb.first) < min(end, sb.second)) {
+                // Add the overlapping part to double bookings
+                double_bookings.push_back({max(start, sb.first), min(end, sb.second)});
+            }
+        }
+        
+        // Add the new event to single bookings
+        single_bookings.push_back({start, end});
+        return true;
     }
-
-private:
-    std::map<int, int> events; // Store changes in booking counts
 };
-
-/**
- * Your MyCalendarTwo object will be instantiated and called as such:
- * MyCalendarTwo* obj = new MyCalendarTwo();
- * bool param_1 = obj->book(start,end);
- */
