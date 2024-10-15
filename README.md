@@ -11,6 +11,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0165-compare-version-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
@@ -38,6 +39,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0171-excel-sheet-column-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0412-fizz-buzz](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 ## Recursion
@@ -48,6 +50,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0021-merge-two-sorted-lists](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0231-power-of-two) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +71,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 ## Tree
@@ -255,4 +259,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
