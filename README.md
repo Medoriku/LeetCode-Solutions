@@ -8,6 +8,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0006-zigzag-conversion](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
+| [0067-add-binary](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0165-compare-version-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0171-excel-sheet-column-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0214-shortest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
@@ -41,6 +42,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
+| [0067-add-binary](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0171-excel-sheet-column-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -196,6 +198,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -216,6 +219,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
