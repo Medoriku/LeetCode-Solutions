@@ -89,6 +89,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
 | ------- |
@@ -117,6 +118,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Data Stream
 |  |
 | ------- |
@@ -165,6 +167,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
@@ -233,6 +236,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Trie
 |  |
 | ------- |
