@@ -39,6 +39,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0002-add-two-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -156,6 +157,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1923-sentence-similarity-iii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2411-spiral-matrix-iv](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -237,6 +239,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0592-fraction-addition-and-subtraction](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [2411-spiral-matrix-iv](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
 |  |
@@ -256,6 +259,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2411-spiral-matrix-iv](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 ## Segment Tree
 |  |
 | ------- |
