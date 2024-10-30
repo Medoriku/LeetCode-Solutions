@@ -88,6 +88,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0264-ugly-number-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Tree
@@ -112,6 +113,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0731-my-calendar-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -154,6 +156,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1497-design-a-stack-with-increment-operation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1694-make-sum-divisible-by-p](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -209,6 +212,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0624-maximum-distance-in-arrays](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0624-maximum-distance-in-arrays) |
 | [0890-lemonade-change](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [1304-longest-happy-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
+| [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
