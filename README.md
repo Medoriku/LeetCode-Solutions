@@ -17,6 +17,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0344-reverse-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0564-find-the-closest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -51,6 +52,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0241-different-ways-to-add-parentheses](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0412-fizz-buzz](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [0564-find-the-closest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 ## Recursion
