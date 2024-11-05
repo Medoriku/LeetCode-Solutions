@@ -20,6 +20,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0564-find-the-closest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0564-find-the-closest-palindrome) |
 | [0567-permutation-in-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
+| [0812-rotate-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1044-find-common-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -297,6 +298,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
