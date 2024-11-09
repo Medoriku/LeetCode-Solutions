@@ -158,6 +158,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0731-my-calendar-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0890-lemonade-change](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
+| [1002-maximum-width-ramp](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1044-find-common-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1196-filling-bookcase-shelves](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
@@ -315,6 +316,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 ## Stack
 |  |
 | ------- |
+| [1002-maximum-width-ramp](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -335,4 +337,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1002-maximum-width-ramp](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
 <!---LeetCode Topics End-->
