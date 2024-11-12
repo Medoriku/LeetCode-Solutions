@@ -60,6 +60,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0592-fraction-addition-and-subtraction](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
@@ -72,6 +73,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0241-different-ways-to-add-parentheses](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -173,6 +175,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1786-count-the-number-of-consistent-strings](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -266,6 +269,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0592-fraction-addition-and-subtraction](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0906-walking-robot-simulation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2411-spiral-matrix-iv](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Depth-First Search
@@ -344,4 +348,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [1002-maximum-width-ramp](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+## Queue
+|  |
+| ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
