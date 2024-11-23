@@ -90,6 +90,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1923-sentence-similarity-iii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
+| [1972-rotating-the-box](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -186,6 +187,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1923-sentence-similarity-iii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1923-sentence-similarity-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1972-rotating-the-box](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -308,6 +310,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1972-rotating-the-box](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1972-rotating-the-box) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
