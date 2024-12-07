@@ -67,6 +67,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0592-fraction-addition-and-subtraction](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0592-fraction-addition-and-subtraction) |
 | [0633-sum-of-square-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
+| [1240-stone-game-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
@@ -115,6 +116,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0264-ugly-number-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [1196-filling-bookcase-shelves](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -195,6 +197,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
+| [1240-stone-game-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
@@ -363,6 +366,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0731-my-calendar-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1240-stone-game-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1694-make-sum-divisible-by-p](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1940-maximum-xor-for-each-query](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -441,4 +445,8 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [2201-valid-arrangement-of-pairs](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
+## Game Theory
+|  |
+| ------- |
+| [1240-stone-game-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 <!---LeetCode Topics End-->
