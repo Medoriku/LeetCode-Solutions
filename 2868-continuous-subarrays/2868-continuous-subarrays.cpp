@@ -3,7 +3,8 @@ public:
     long long continuousSubarrays(vector<int>& nums) {
         long long total = 0;
         int start = 0;
-        std::multiset<int> window; // Keeps track of elements in the current window
+        std::multiset<int>
+            window; // Keeps track of elements in the current window
 
         for (int end = 0; end < nums.size(); ++end) {
             // Add the current element to the multiset
