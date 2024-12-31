@@ -120,6 +120,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0241-different-ways-to-add-parentheses](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0264-ugly-number-ii) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
+| [1025-minimum-cost-for-tickets](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -213,6 +214,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0906-walking-robot-simulation) |
 | [1002-maximum-width-ramp](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1044-find-common-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
