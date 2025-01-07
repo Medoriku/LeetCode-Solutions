@@ -28,6 +28,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1197-parsing-a-boolean-expression](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1304-longest-happy-string) |
+| [1524-string-matching-in-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
@@ -226,6 +227,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1256-rank-transform-of-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1524-string-matching-in-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
@@ -438,6 +440,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0214-shortest-palindrome) |
 | [0812-rotate-string](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0812-rotate-string) |
+| [1524-string-matching-in-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 ## Hash Function
 |  |
 | ------- |
