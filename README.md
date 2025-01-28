@@ -272,6 +272,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
@@ -403,6 +404,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1396-count-servers-that-communicate](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -416,6 +418,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Trie
 |  |
 | ------- |
@@ -435,6 +438,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2145-grid-game](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Segment Tree
 |  |
@@ -552,4 +556,5 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
