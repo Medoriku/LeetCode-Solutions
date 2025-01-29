@@ -102,6 +102,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0011-container-with-most-water](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0165-compare-version-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0165-compare-version-numbers) |
 | [0202-happy-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -213,6 +214,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0011-container-with-most-water](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0136-single-number](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
@@ -285,6 +287,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | ------- |
 | [0015-3sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0242-valid-anagram) |
