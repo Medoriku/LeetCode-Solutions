@@ -281,6 +281,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Sorting
