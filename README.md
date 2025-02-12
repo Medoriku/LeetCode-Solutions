@@ -191,6 +191,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2300-construct-string-with-repeat-limit](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2434-design-a-number-container-system](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -274,6 +275,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2465-shifting-letters-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -306,6 +308,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1256-rank-transform-of-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2502-sort-the-people](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
@@ -343,6 +346,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2300-construct-string-with-repeat-limit](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2502-sort-the-people](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
