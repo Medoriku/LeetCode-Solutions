@@ -196,6 +196,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2868-continuous-subarrays](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Binary Tree
 |  |
@@ -288,6 +289,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2868-continuous-subarrays) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
@@ -414,6 +416,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2411-spiral-matrix-iv](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2411-spiral-matrix-iv) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
