@@ -155,6 +155,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Design
 |  |
@@ -286,6 +287,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2502-sort-the-people](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2502-sort-the-people) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -439,6 +441,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1396-count-servers-that-communicate](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1396-count-servers-that-communicate) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -453,6 +456,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Trie
@@ -579,6 +583,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2201-valid-arrangement-of-pairs](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2201-valid-arrangement-of-pairs) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Shortest Path
 |  |
 | ------- |
