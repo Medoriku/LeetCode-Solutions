@@ -83,6 +83,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0633-sum-of-square-numbers](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0650-2-keys-keyboard](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [1240-stone-game-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -139,6 +140,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1025-minimum-cost-for-tickets](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1196-filling-bookcase-shelves) |
 | [1240-stone-game-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2067-maximum-number-of-points-with-cost) |
@@ -255,6 +257,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1497-design-a-stack-with-increment-operation](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1524-string-matching-in-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1524-string-matching-in-an-array) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -490,6 +493,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [0731-my-calendar-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Medoriku/LeetCode-Solutions/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1240-stone-game-ii) |
+| [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1694-make-sum-divisible-by-p) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1940-maximum-xor-for-each-query](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1940-maximum-xor-for-each-query) |
