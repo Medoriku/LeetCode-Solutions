@@ -195,6 +195,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [1730-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1730-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Medoriku/LeetCode-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Heap (Priority Queue)
@@ -307,6 +308,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2551-apply-operations-to-an-array](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2692-take-gifts-from-the-richest-pile) |
@@ -440,6 +442,7 @@ Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 | [2300-construct-string-with-repeat-limit](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2300-construct-string-with-repeat-limit) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Medoriku/LeetCode-Solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Simulation
 |  |
 | ------- |
